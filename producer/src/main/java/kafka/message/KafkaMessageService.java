@@ -1,4 +1,4 @@
-package com.example.kafka;
+package kafka.message;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
